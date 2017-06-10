@@ -1,0 +1,1 @@
+<scope doc="WSGI config for mysite project." ilk="blob" lang="Python" name="wsgi" src="C:\Users\user\mysite\wsgi.py"><import line="10" module="os" /><import line="12" module="django.core.wsgi" symbol="get_wsgi_application" /><variable citdl="get_wsgi_application()" line="16" name="application" /></scope>

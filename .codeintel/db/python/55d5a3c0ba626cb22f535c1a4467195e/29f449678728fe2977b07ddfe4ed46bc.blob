@@ -1,1 +1,0 @@
-<scope doc="mysite URL Configuration" ilk="blob" lang="Python" name="urls" src="C:\Users\user\mysite\urls.py"><import line="16" module="django.conf.urls" symbol="url" /><import line="17" module="django.contrib" symbol="admin" /><variable citdl="list" line="19" name="urlpatterns" /></scope>

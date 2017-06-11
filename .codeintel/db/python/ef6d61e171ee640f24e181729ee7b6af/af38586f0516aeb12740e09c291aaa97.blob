@@ -1,1 +1,0 @@
-<scope ilk="blob" lang="Python" name="python_intro" src="C:\Users\user\Desktop\python_intro.py"><scope ilk="function" line="9" lineend="13" name="fibo" returns="int" signature="fibo(n)"><variable ilk="argument" line="9" name="n" /></scope></scope>
